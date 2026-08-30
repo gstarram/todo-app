@@ -5,3 +5,4 @@ echo "2. Learn Git"
 echo "3. Learn Docker"
 
 echo "4. Learn Docker Compose"
+echo "5. Learn CI/CD"

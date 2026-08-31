@@ -6,3 +6,4 @@ echo "3. Learn Docker"
 echo "4. Learn Docker Compose"
 echo "5. Learn CI/CD"
 echo "6. Practice daily"
+hii 
